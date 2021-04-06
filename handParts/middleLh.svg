@@ -1,0 +1,6 @@
+<svg id="middleLh" xmlns="http://www.w3.org/2000/svg" width="16" height="104">
+  <style>@import url(../style.css);</style>
+  <path class="middleLh3" d="M4,63.31h8a4,4,0,0,1,4,4v23a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-23A4,4,0,0,1,4,63.31Z"/>
+  <path class="middleLh2" d="M4,29.16h8a4,4,0,0,1,4,4v18a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-18A4,4,0,0,1,4,29.16Z"/>
+  <rect class="middleLh1" width="16" height="25" rx="8" ry="8"/>
+</svg>

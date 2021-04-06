@@ -1,0 +1,6 @@
+<svg id="littleLh" xmlns="http://www.w3.org/2000/svg" width="16" height="75">
+  <style>@import url(../style.css);</style>
+  <path class="littleLh3" d="M4,48.23h8a4,4,0,0,1,4,4v8a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-8a4,4,0,0,1,4-4Z"/>
+  <path class="littleLh2" d="M4,24.11h8a4,4,0,0,1,4,4v8a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-8a4,4,0,0,1,4-4Z"/>
+  <rect class="littleLh1" width="16" height="20" rx="8" ry="8"/>
+</svg>

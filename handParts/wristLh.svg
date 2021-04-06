@@ -1,0 +1,7 @@
+<svg id="wristLh" xmlns="http://www.w3.org/2000/svg" width="125" height="110">
+  <style>
+    @import url(../style.css);
+  </style>
+  <path class="wristLh2" d="M463.14,511.84H449.81a40,40,0,0,0-80,0H357.14a2,2,0,0,0-2,2v11a2,2,0,0,0,2,2h106a2,2,0,0,0,2-2v-11A2,2,0,0,0,463.14,511.84Z" transform="translate(-355.14 -416.56)"/>
+  <path class="wristLh1" d="M463.14,416.56h-106a2,2,0,0,0-2,2v11a2,2,0,0,0,2,2h12.67a40,40,0,1,0,80,0h13.33a2,2,0,0,0,2-2v-11A2,2,0,0,0,463.14,416.56Z" transform="translate(-355.14 -416.56)"/>
+</svg>

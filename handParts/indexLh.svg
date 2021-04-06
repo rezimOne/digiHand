@@ -1,0 +1,6 @@
+<svg id="indexLh" xmlns="http://www.w3.org/2000/svg" width="16" height="88">
+  <style>@import url(../style.css);</style>
+  <path class="indexLh3" d="M4,57.78h8a4,4,0,0,1,4,4v13a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-13A4,4,0,0,1,4,57.78Z"/>
+  <path class="indexLh2" d="M4,28.5h8a4,4,0,0,1,4,4v13a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-13A4,4,0,0,1,4,28.5Z"/>
+  <rect class="indexLh1" width="16" height="25" rx="8" ry="8"/>
+</svg>

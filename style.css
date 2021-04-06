@@ -1,0 +1,90 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+    background-color: rgb(183, 216, 176);
+}
+
+#handL{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    left:20px;
+}
+
+.handL{
+    fill:rgb(78, 127, 233);
+}
+
+
+#handL:hover{
+    transform: rotate(2deg);
+}
+
+#wristLh{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    left: 14px;
+}
+
+.wristLh1:hover, .wristLh2:hover{
+    fill: rgb(111, 155, 250);
+}
+
+#thumbLh{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+
+}
+
+.thumbLh1, .thumbLh2{
+    fill: rgb(78, 127, 233);
+}
+
+#indexLh{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.indexLh1, .indexLh2, .indexLh3{
+    fill: rgb(78, 127, 233);
+}
+
+#middleLh{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.middleLh1, .middleLh2, .middleLh3{
+    fill: rgb(78, 127, 233);
+}
+
+#ringLh{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.ringLh1, .ringLh2, .ringLh3{
+    fill: rgb(78, 127, 233);
+}
+
+#littleLh{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    position: relative;
+}
+
+.littleLh1, .littleLh2, .littleLh3{
+    fill: rgb(78, 127, 233);
+}

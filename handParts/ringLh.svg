@@ -1,0 +1,6 @@
+<svg id="ringLh" xmlns="http://www.w3.org/2000/svg" width="16" height="100">
+  <style>@import url(../style.css);</style>
+  <path class="ringLh3" d="M4,58.65h8a4,4,0,0,1,4,4v23a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-23A4,4,0,0,1,4,58.65Z"/>
+  <path class="ringLh2" d="M4,29.24h8a4,4,0,0,1,4,4v13a8,8,0,0,1-8,8H8a8,8,0,0,1-8-8v-13A4,4,0,0,1,4,29.24Z"/>
+  <rect class="ringLh1" width="16" height="25" rx="8" ry="8"/>
+</svg>
